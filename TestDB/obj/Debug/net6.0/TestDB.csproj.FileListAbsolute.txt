@@ -1,0 +1,14 @@
+C:\Users\nuadolos\source\repos\TestC\TestDB\bin\Debug\net6.0\TestDB.deps.json
+C:\Users\nuadolos\source\repos\TestC\TestDB\bin\Debug\net6.0\TestDB.runtimeconfig.json
+C:\Users\nuadolos\source\repos\TestC\TestDB\bin\Debug\net6.0\TestDB.dll
+C:\Users\nuadolos\source\repos\TestC\TestDB\bin\Debug\net6.0\TestDB.pdb
+C:\Users\nuadolos\source\repos\TestC\TestDB\obj\Debug\net6.0\TestDB.csproj.AssemblyReference.cache
+C:\Users\nuadolos\source\repos\TestC\TestDB\obj\Debug\net6.0\TestDB.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nuadolos\source\repos\TestC\TestDB\obj\Debug\net6.0\TestDB.AssemblyInfoInputs.cache
+C:\Users\nuadolos\source\repos\TestC\TestDB\obj\Debug\net6.0\TestDB.AssemblyInfo.cs
+C:\Users\nuadolos\source\repos\TestC\TestDB\obj\Debug\net6.0\TestDB.csproj.CoreCompileInputs.cache
+C:\Users\nuadolos\source\repos\TestC\TestDB\obj\Debug\net6.0\TestDB.dll
+C:\Users\nuadolos\source\repos\TestC\TestDB\obj\Debug\net6.0\refint\TestDB.dll
+C:\Users\nuadolos\source\repos\TestC\TestDB\obj\Debug\net6.0\TestDB.pdb
+C:\Users\nuadolos\source\repos\TestC\TestDB\obj\Debug\net6.0\TestDB.genruntimeconfig.cache
+C:\Users\nuadolos\source\repos\TestC\TestDB\obj\Debug\net6.0\ref\TestDB.dll
