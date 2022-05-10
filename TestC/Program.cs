@@ -4,10 +4,11 @@ using Microsoft.EntityFrameworkCore;
 var builder = WebApplication.CreateBuilder(args);
 
 //ƒобавление пула контекстов UserContext,
-//  указав строку подключени€ из appsettings.json
+//  указав вручную строку подключени€
+//  (без этого проект невозможно открыть с помощью команд cmd)
 builder.Services.AddDbContextPool<UserContext>(options =>
     options.UseSqlServer(
-        builder.Configuration.GetConnectionString("TestConnection")));
+        "Server=.\\sqlexpress;Database=TestDB;Trusted_Connection=True;"));
 
 builder.Services.AddControllers();
 builder.Services.AddEndpointsApiExplorer();
